@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iqbalrafli13/langs)](https://githubtrends.io)
 <!--
 **iqbalrafli13/iqbalrafli13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
